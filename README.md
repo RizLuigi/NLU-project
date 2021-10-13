@@ -30,5 +30,5 @@ There in no data folder, since the framework manages datasets internally, withou
 
 The report is provided in the main folder.
 
-The additional folder contains the checkpoints locally saved in my Google Drive.
+The "NLU Project" folder contains the checkpoints locally saved in my Google Drive.
 
