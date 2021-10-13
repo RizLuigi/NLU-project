@@ -1,6 +1,6 @@
 # NLU 2021 - Riz Luigi - Mat. 223823
 
-The project has been developed using Colab Notebooks, so the reference to it is reported in this report. There is no need to worry for the libraries, since the Notebook downloads and includes them directly. Anyway, the used libraries are: 
+The project has been developed using Colab Notebooks [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RizLuigi/NLU-project/blob/main/GPT2_Evaluation_and_fine_tuning.ipynb). There is no need to worry for the libraries, since the Notebook downloads and includes them directly. Anyway, the used libraries are: 
 - [Huggingface Transformers](https://huggingface.co/transformers/):
  
   run ```pip install transformers```
@@ -25,6 +25,8 @@ The project has been developed using Colab Notebooks, so the reference to it is 
 
     run ```pip install numpy```
   
+  
+There in no data folder, since the framework manages datasets internally, without the need to download and reload every time.
 
 The report is provided in the main folder.
 
